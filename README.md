@@ -23,3 +23,16 @@ recent commit: True
 
 blame Rufus: True
 
+#To Run the application you have to follow these steps:
+
+1-install following library after installing python3
+
+gitpython (pip install gitpython)
+
+2-if you want to clone repo from github first do "git init" then "git clone (path to repository)"
+
+3-run the command below
+
+python3 app.py "path to local repository"
+
+for example :python3 app.py /home/alirezamahinparvar/new/Python-projects
