@@ -15,8 +15,8 @@ whether the current head commit was authored by Rufus (boolean)
 Sample Output Format
 The program should print something like
 
-active branch: master
-local changes: False
-recent commit: True
-blame Rufus: True
+#active branch: master
+#local changes: False
+#recent commit: True
+#blame Rufus: True
 
