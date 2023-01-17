@@ -23,7 +23,7 @@ recent commit: True
 
 blame Rufus: True
 
-#To Run the application you have to follow these steps:
+# To Run the application you have to follow these steps:
 
 1-install following library after installing python3
 
